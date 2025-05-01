@@ -1,0 +1,6 @@
+node_modules
+dist
+logs
+json
+.env
+app.log
